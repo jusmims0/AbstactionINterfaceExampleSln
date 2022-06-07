@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstactionINterfaceExample", "AbstactionINterfaceExample\AbstactionINterfaceExample.csproj", "{378DE3F2-B951-47C2-9806-52F77779514A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismExample", "PolymorphismExample\PolymorphismExample.csproj", "{E125798A-A5D7-4B6B-83A1-CC14D9F87D36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378DE3F2-B951-47C2-9806-52F77779514A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378DE3F2-B951-47C2-9806-52F77779514A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378DE3F2-B951-47C2-9806-52F77779514A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378DE3F2-B951-47C2-9806-52F77779514A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E125798A-A5D7-4B6B-83A1-CC14D9F87D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E125798A-A5D7-4B6B-83A1-CC14D9F87D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E125798A-A5D7-4B6B-83A1-CC14D9F87D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E125798A-A5D7-4B6B-83A1-CC14D9F87D36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA699532-1C38-427C-BE2E-EBC8E9E9E615}
+	EndGlobalSection
+EndGlobal
